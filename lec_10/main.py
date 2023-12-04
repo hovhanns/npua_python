@@ -37,3 +37,20 @@ c = Child("Alice", 10)
 c.speak()
 # print(c.name)
 # print(c.age)
+
+import my_module
+
+print(__name__)
+# def my_function(user_list=[]):
+#     user_list.append(1)
+#     print(user_list)
+
+
+# my_function()
+# my_function()
+# my_list = [1, 2, 3]
+# my_function(my_list)
+# print(my_list)
+# my_function()
+# my_function()
+
